@@ -1,0 +1,1 @@
+cd to root folder and npm run start in command line
